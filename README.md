@@ -1,16 +1,47 @@
-## Hi there 👋
+Hola 👋 soy Ruben, es un placer ✨
+Ruben mansilla8090@gmail.com
 
-<!--
-**Ruben14f/Ruben14f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sobre mi 😃
+🎓 Ingeniero en Informatica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎥 Actualmente, estudiante como Programador, buscando especializarme tanto en frontend como en backend.
+
+📝 roles en el ámbito: Desarrollador, lider, analista y en un futuro, quien sabe...
+
+📫 Contacto: mansilla8090@gmail.com
+
+
+Tecnologías conocidas👨🏻‍💻
+Frontend:
+
+
+Backend:
+
+
+Base de datos:
+
+
+Herramientas:
+
+
+Algunos proyectos👨🏻‍💻
+
+
+@unsimpledev
+
+HighWay: Aplicacion mobile
+
+
+@unsimpledev
+
+Centro Psicologico: Conectemos SPA
+
+
+@unsimpledev
+
+Pequeño portafolio
+Haz click aquí
+
+Portafolio👨🏻‍💻
+Si deseas conocer más de mi y mis proyectos, te invito a que revises mi portafolio: https://portafoliocvruben.netlify.app/
