@@ -28,20 +28,5 @@ Herramientas:
 Algunos proyectos👨🏻‍💻
 
 
-@unsimpledev
-
-HighWay: Aplicacion mobile
-
-
-@unsimpledev
-
-Centro Psicologico: Conectemos SPA
-
-
-@unsimpledev
-
-Pequeño portafolio
-Haz click aquí
-
 Portafolio👨🏻‍💻
 Si deseas conocer más de mi y mis proyectos, te invito a que revises mi portafolio: https://portafoliocvruben.netlify.app/
